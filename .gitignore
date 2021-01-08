@@ -1,0 +1,14 @@
+target/
+classes/
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+*.ipr
+*.iws
+*.bak
+/src/main/java/com/sabre/dckrk/recruitment/totals/implementation/TotalCalculatorOldImpl.java
+/src/test/java/com/sabre/dckrk/recruitment/totals/implementation/TotalCalculatorOldImplTest.java
+/src/main/java/com/sabre/dckrk/recruitment/totals/implementation/TotalCalculatorStreamsImpl.java
+/src/test/java/com/sabre/dckrk/recruitment/totals/implementation/TotalCalculatorStreamsImplTest.java

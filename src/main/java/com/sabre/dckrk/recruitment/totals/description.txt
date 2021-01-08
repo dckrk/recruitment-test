@@ -1,0 +1,3 @@
+- Create a implementation of TotalCalculator
+- find the total of double of all even number bigger than 5
+
