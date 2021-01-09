@@ -1,4 +1,4 @@
-/* Copyright Sabre Holdings */
+/* Copyright Sabre Corporation */
 package com.sabre.dckrk.recruitment.totals.draft;
 
 /*
