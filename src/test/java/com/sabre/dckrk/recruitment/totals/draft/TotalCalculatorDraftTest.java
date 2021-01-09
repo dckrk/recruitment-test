@@ -1,4 +1,5 @@
-package com.sabre.dckrk.recruitment.totals.draft;/* Copyright 2019 Sabre Holdings */
+/* Copyright Sabre Holdings */
+package com.sabre.dckrk.recruitment.totals.draft;
 
 import com.sabre.dckrk.recruitment.totals.TotalCalculator;
 import org.junit.Assert;

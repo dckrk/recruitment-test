@@ -1,4 +1,4 @@
-/* Copyright 2019 Sabre Holdings */
+/* Copyright Sabre Holdings */
 package com.sabre.dckrk.recruitment.totals;
 
 import java.util.List;
