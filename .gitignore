@@ -12,3 +12,7 @@ classes/
 /src/test/java/com/sabre/dckrk/recruitment/totals/implementation/TotalCalculatorOldImplTest.java
 /src/main/java/com/sabre/dckrk/recruitment/totals/implementation/TotalCalculatorStreamsImpl.java
 /src/test/java/com/sabre/dckrk/recruitment/totals/implementation/TotalCalculatorStreamsImplTest.java
+/src/main/java/com/sabre/dckrk/recruitment/footbal/implementation/FootballStatsStreamImpl.java
+/src/test/java/com/sabre/dckrk/recruitment/footbal/implementation/FootballStatsStreamImplTest.java
+/src/main/java/com/sabre/dckrk/recruitment/letters/implementation/StringStatsImpl.java
+/src/test/java/com/sabre/dckrk/recruitment/letters/implementation/StringStatsImplTest.java
