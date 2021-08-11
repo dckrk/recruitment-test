@@ -1,0 +1,3 @@
+- Create a implementation of FootballStats interface
+- find the average distance covered by all forwards
+

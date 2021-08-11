@@ -1,0 +1,3 @@
+- Create a implementation of StringStats
+- find the average number of letters in strings where string is starting with capital letter and has length bigger than 3
+
